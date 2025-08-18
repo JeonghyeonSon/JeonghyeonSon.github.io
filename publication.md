@@ -6,15 +6,13 @@ permalink: /publication/
 
 # 📚 Publications
 
-<details>
-<summary>📝 Work in Progress</summary>
-
+<button id="wip-toggle" style="margin-bottom:10px;">📝 Show/Hide Work in Progress</button>
+<div id="wip-list">
 {% assign wips = site.data.publications | where: "status", "wip" | sort: "year" | reverse %}
 {% for pub in wips %}
 - {{ pub.authors }}. {{ pub.year }}. {{ pub.title }}. *{{ pub.journal }}*{% if pub.note %} ({{ pub.note }}){% endif %}.
 {% endfor %}
-
-</details>
+</div>
 
 ## 📔 Published
 
@@ -23,3 +21,13 @@ permalink: /publication/
 - {{ pub.authors }}. {{ pub.year }}. {{ pub.title }}. *{{ pub.journal }}* {% if pub.volume %}{{ pub.volume }}{% endif %}{% if pub.pages %}:{{ pub.pages }}{% endif %}.
 {% endfor %}
 
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var btn = document.getElementById('wip-toggle');
+  var list = document.getElementById('wip-list');
+  list.style.display = 'none';
+  btn.onclick = function() {
+    list.style.display = (list.style.display === 'none') ? 'block' : 'none';
+  }
+});
+</script>
