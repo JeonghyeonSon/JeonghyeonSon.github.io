@@ -2,7 +2,7 @@
 layout: page
 title: Home
 permalink: /
----
+
 
 # 🐷 Jeonghyeon Son [손 정현]
 **Ph.D. Student in Animal Science (Swine Nutrition)**  
@@ -43,6 +43,9 @@ permalink: /
 ## 📝 Conference Abstracts
 (자동 목록: `_data/abstracts.yml`에서 불러오게 설정 가능)  
 
+
+
+---
 ---
 
 ## 💻 Code
