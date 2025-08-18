@@ -42,14 +42,3 @@ permalink: /    # 사이트 첫 화면 주소!
 
 [**View All Publications →**](/publication/)
 
----
-## 📝 Conference Abstracts
-(자동 목록: `_data/abstracts.yml`에서 불러오게 설정 가능)  
-
-
-
----
-
-## 💻 Code
-See the [Code Collection](/code/) page.
----
