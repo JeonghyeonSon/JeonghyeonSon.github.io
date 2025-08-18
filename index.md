@@ -1,9 +1,9 @@
 ---
-layout: page
-title: Home
-permalink: /
-
-
+layout: page    # 이건 일반 페이지 레이아웃
+title: Home     # 브라우저 탭에 뜨는 제목
+permalink: /    # 사이트 첫 화면 주소!
+---
+---
 # 🐷 Jeonghyeon Son [손 정현]
 **Ph.D. Student in Animal Science (Swine Nutrition)**  
 
@@ -27,26 +27,25 @@ permalink: /
   Konkuk University, Seoul, South Korea, Aug 2021  
 
 ---
-
 ## 🔬 Research Interests
 - Precision nutrition in swine  
 - Nutrient digestibility, availability, and requirement modeling  
 - Nutritional interventions and microbiome analysis for intestinal health  
 
----
 
+---
 ## 📚 Publications
 (자동 목록: `_data/publications.yml`에서 불러오게 설정 가능)  
 
----
 
+---
 ## 📝 Conference Abstracts
 (자동 목록: `_data/abstracts.yml`에서 불러오게 설정 가능)  
 
 
 
 ---
----
 
 ## 💻 Code
 See the [Code Collection](/code/) page.
+---
