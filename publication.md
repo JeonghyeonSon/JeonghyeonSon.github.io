@@ -14,11 +14,11 @@ permalink: /publication/
 
 - {{ latest_wip.authors }}. {{ latest_wip.year }}. {{ latest_wip.title }}. *{{ latest_wip.journal }}*{% if latest_wip.note %} ({{ latest_wip.note }}){% endif %}. <span id="toggle-wip" style="color: #007bff; cursor:pointer;">[Read more]</span>
 
-<ul id="other-wip-list" style="display:none; padding-left: 1.3em;">
+<div id="other-wip-list" style="display:none;">
 {% for pub in other_wips %}
-  <li>{{ pub.authors }}. {{ pub.year }}. {{ pub.title }}. <em>{{ pub.journal }}</em>{% if pub.note %} ({{ pub.note }}){% endif %}.</li>
+- {{ pub.authors }}. {{ pub.year }}. {{ pub.title }}. *{{ pub.journal }}*{% if pub.note %} ({{ pub.note }}){% endif %}.
 {% endfor %}
-</ul>
+</div>
 
 ## 📔 Published
 
@@ -26,6 +26,21 @@ permalink: /publication/
 {% for pub in pubs %}
 - {{ pub.authors }}. {{ pub.year }}. {{ pub.title }}. *{{ pub.journal }}* {% if pub.volume %}{{ pub.volume }}{% endif %}{% if pub.pages %}:{{ pub.pages }}{% endif %}.
 {% endfor %}
+
+<style>
+/* 들여쓰기 없애기: 마크다운 ul, ol, li 스타일 초기화 */
+ul, ol {
+    margin-left: 0;
+    padding-left: 0;
+}
+li {
+    margin-left: 0;
+    padding-left: 0;
+}
+#other-wip-list {
+    /* 마크다운 리스트 스타일로 나오게 하기 위해 block으로 설정 */
+}
+</style>
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
