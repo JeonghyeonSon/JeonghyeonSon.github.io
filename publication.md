@@ -31,11 +31,10 @@ permalink: /publication/
 document.addEventListener('DOMContentLoaded', function() {
   var toggle = document.getElementById('toggle-wip');
   var list = document.getElementById('other-wip-list');
-  var shown = false;
   if (toggle) {
     toggle.onclick = function() {
       list.style.display = (list.style.display === 'none') ? 'block' : 'none';
-      toggle.textContent = (list.style.display === 'block') ? '[접기]' : '[더 보기]';
+      toggle.textContent = (list.style.display === 'block') ? '[Hide]' : '[Read more]';
     }
   }
 });
