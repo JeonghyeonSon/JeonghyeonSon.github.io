@@ -4,7 +4,7 @@ title: Home     # 브라우저 탭에 뜨는 제목
 permalink: /    # 사이트 첫 화면 주소!
 ---
 ---
-## 🏠 Jeonghyeon Son [손 정현]
+## 🐷 Jeonghyeon Son [손 정현]
 **Ph.D. Student in Animal Science (Swine Nutrition)**  
 
 🐺 North Carolina State University  
