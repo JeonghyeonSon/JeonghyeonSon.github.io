@@ -4,9 +4,9 @@ title: Publications
 permalink: /publication/
 ---
 
-# 📚 Publications
+# 📖 Publications
 
-## 📝 Under Review / Submitted / Accepted (Not Yet Published)
+## 🚧 Work in progress
 
 <ol reversed start="6">
 <li>Cheng YC, Son J, Kim SW. 2025. Amino acids with Corynebacterium glutamicum cell mass can replace crystalline amino acids for its postbiotic effects on intestinal health of nursery pigs. *Animal Feed Science and Technology* (Submitted)</li>
