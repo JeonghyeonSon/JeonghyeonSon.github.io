@@ -35,8 +35,12 @@ permalink: /    # 사이트 첫 화면 주소!
 
 ---
 ## 📚 Publications
-(자동 목록: `_data/publications.yml`에서 불러오게 설정 가능)  
+**Latest Publications:**
+1. Cheng YC, Son J, Kim SW. 2025. Amino acids with Corynebacterium glutamicum cell mass can replace crystalline amino acids for its postbiotic effects on intestinal health of nursery pigs. *Animal Feed Science and Technology* (Submitted)
+2. Zheng L, Son J, Kim SW. 2025. Effects of fermented rice bran with multi-microbial species on intestinal health and growth of nursery pigs. *Animal Bioscience* (Under review)
+3. Son J, Seo S, Kim BG. 2025. Prediction models for nitrogen excretion based on dietary crude protein concentrations and body weights of pigs. *Journal of Animal Science* (Under review)
 
+[**View All Publications →**](/publication/)
 
 ---
 ## 📝 Conference Abstracts
