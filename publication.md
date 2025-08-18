@@ -14,11 +14,11 @@ permalink: /publication/
 
 - {{ latest_wip.authors }}. {{ latest_wip.year }}. {{ latest_wip.title }}. *{{ latest_wip.journal }}*{% if latest_wip.note %} ({{ latest_wip.note }}){% endif %}. <span id="toggle-wip" style="color: #007bff; cursor:pointer;">[Read more]</span>
 
-<div id="other-wip-list" style="display:none;">
+<ul id="other-wip-list" style="display:none; padding-left: 1.3em;">
 {% for pub in other_wips %}
-- {{ pub.authors }}. {{ pub.year }}. {{ pub.title }}. *{{ pub.journal }}*{% if pub.note %} ({{ pub.note }}){% endif %}.
+  <li>{{ pub.authors }}. {{ pub.year }}. {{ pub.title }}. <em>{{ pub.journal }}</em>{% if pub.note %} ({{ pub.note }}){% endif %}.</li>
 {% endfor %}
-</div>
+</ul>
 
 ## 📔 Published
 
