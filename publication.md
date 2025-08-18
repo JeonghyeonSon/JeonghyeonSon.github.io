@@ -7,10 +7,10 @@ permalink: /publication/
 # 📚 Publications
 
 <ol reversed>
-<li>18. Cheng YC, Son J, Kim SW. Amino acids with Corynebacterium glutamicum cell mass can replace crystalline amino acids for its postbiotic effects on intestinal health of nursery pigs. *Animal Feed Science and Technology* (Submitted), 2025.</li>
-<li>17. Zheng L, Son J, Kim SW. Effects of fermented rice bran with multi-microbial species on intestinal health and growth of nursery pigs. *Animal Bioscience* (Under review), 2025.</li>
-<li>16. Son J, Seo S, Kim BG. Prediction models for nitrogen excretion based on dietary crude protein concentrations and body weights of pigs. *Journal of Animal Science* (Under review), 2025.</li>
-<li>15. Son J, Kim SW. Post-weaning diarrhea by F18+ Escherichia coli and its impacts on mucosa-associated microbiota and mucosal immune response in the jejunum of nursery pigs. *Microbiome Research Reports* (Accepted), 2025.</li>
+<li>18. Cheng YC, Son J, Kim SW. 2025. Amino acids with Corynebacterium glutamicum cell mass can replace crystalline amino acids for its postbiotic effects on intestinal health of nursery pigs. *Animal Feed Science and Technology* (Submitted)</li>
+<li>17. Zheng L, Son J, Kim SW. 2025. Effects of fermented rice bran with multi-microbial species on intestinal health and growth of nursery pigs. *Animal Bioscience* (Under review), </li>
+<li>16. Son J, Seo S, Kim BG. 2025. Prediction models for nitrogen excretion based on dietary crude protein concentrations and body weights of pigs. *Journal of Animal Science* (Under review), </li>
+<li>15. Son J, Kim SW. Post-weaning diarrhea by F18+ Escherichia coli and its impacts on mucosa-associated microbiota and mucosal immune response in the jejunum of nursery pigs. 2025. *Microbiome Research Reports* (Accepted), </li>
 <li>14. Do H, Hong B, Son J, Park N, Kim BG. New prediction models for gross energy of pig urine using nitrogen concentration and body weight. *Animal Bioscience* (Accepted), 2025.</li>
 <li>13. Lee H, Sung JY, Son J, Chae KS, Kim BG. Effects of homeopathic remedy on performance and behavior of pigs under regrouping stress condition. *Journal of Animal Science and Technology* (Accepted), 2025.</li>
 <li>12. Park N, Son J, Kim BG. Novel models for estimating metabolizable energy intake of pigs based on body weight and ambient temperature. *Journal of Animal Science* 103:skaf183, 2025.</li>
