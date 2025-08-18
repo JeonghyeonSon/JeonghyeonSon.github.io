@@ -4,7 +4,7 @@ title: Home     # 브라우저 탭에 뜨는 제목
 permalink: /    # 사이트 첫 화면 주소!
 ---
 ---
-# 🐷 Jeonghyeon Son [손 정현]
+# 🏠 Jeonghyeon Son [손 정현]
 **Ph.D. Student in Animal Science (Swine Nutrition)**  
 
 🐺 North Carolina State University  
@@ -36,9 +36,9 @@ permalink: /    # 사이트 첫 화면 주소!
 ---
 ## 📚 Publications
 **Latest Publications:**
-1. Cheng YC, Son J, Kim SW. 2025. Amino acids with Corynebacterium glutamicum cell mass can replace crystalline amino acids for its postbiotic effects on intestinal health of nursery pigs. *Animal Feed Science and Technology* (Submitted)
-2. Zheng L, Son J, Kim SW. 2025. Effects of fermented rice bran with multi-microbial species on intestinal health and growth of nursery pigs. *Animal Bioscience* (Under review)
-3. Son J, Seo S, Kim BG. 2025. Prediction models for nitrogen excretion based on dietary crude protein concentrations and body weights of pigs. *Journal of Animal Science* (Under review)
+1. Park N, Son J, Kim BG. Novel models for estimating metabolizable energy intake of pigs based on body weight and ambient temperature. *Journal of Animal Science* 103:skaf183, 2025.
+2. Koh Y, Son J, Kim BG. Comparison of neutral detergent fiber analysis methods for feedstuffs and feces of pigs. *The Journal of AOAC International* 108:648-651, 2025.
+3. Son J, Do H, Kim BG. Assessment of Brix values for estimating nitrogen and gross energy concentrations of pig urine. *Animal Bioscience* 38:1242-1246, 2024.
 
 [**View All Publications →**](/publication/)
 
