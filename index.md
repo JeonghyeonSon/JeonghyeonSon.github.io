@@ -1,6 +1,6 @@
 ---
 layout: page    # 이건 일반 페이지 레이아웃
-title: Home     # 브라우저 탭에 뜨는 제목
+title: 🏡 Home     # 브라우저 탭에 뜨는 제목
 permalink: /    # 사이트 첫 화면 주소!
 ---
 ---
