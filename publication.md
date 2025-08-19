@@ -15,7 +15,7 @@ permalink: /publication/
 {% assign wip_total = wips | size %}
 
 {% for pub in wips %}
-- **{{ wip_total | minus: forloop.index0 }}.** {{ pub.authors }}. {{ pub.title }}. *{{ pub.journal }}*{% if pub.note %} ({{ pub.note }}){% endif %}.
+- **{{ wip_total | minus: forloop.index0 }}.** {{ pub.authors | replace: 'Son J', '<strong>Son J</strong>' }}. {{ pub.title }}. *{{ pub.journal }}*{% if pub.note %} ({{ pub.note }}){% endif %}.
 {% endfor %}
 ---
 # 📔 Peer-Reviewed Publications
@@ -23,5 +23,5 @@ permalink: /publication/
 {% assign pubs = site.data.publications | where: "status", "published" | sort: "year" | reverse %}
 {% assign pub_total = pubs | size %}
 {% for pub in pubs %}
-- **{{ pub_total | minus: forloop.index0 }}.** {{ pub.authors }}. {{ pub.year }}. {{ pub.title }}. *{{ pub.journal }}*{% if pub.volume %} {{ pub.volume }}{% endif %}{% if pub.pages %}:{{ pub.pages }}.{% endif %}{% if pub.link %} [🔗]({{ pub.link }}){% endif %}
+- **{{ pub_total | minus: forloop.index0 }}.** {{ pub.authors | replace: 'Son J', '<strong>Son J</strong>' }}. {{ pub.year }}. {{ pub.title }}. *{{ pub.journal }}*{% if pub.volume %} {{ pub.volume }}{% endif %}{% if pub.pages %}:{{ pub.pages }}.{% endif %}{% if pub.link %} [🔗]({{ pub.link }}){% endif %}
 {% endfor %}
