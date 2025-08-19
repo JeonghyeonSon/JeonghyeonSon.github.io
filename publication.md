@@ -4,7 +4,7 @@ title: Publications
 permalink: /publication/
 ---
 
-# 📚 Publications
+## 📚 Publications
 
 ## 📝 Work in Progress
 
@@ -17,7 +17,7 @@ permalink: /publication/
 {% for pub in wips %}
 - **{{ wip_total | minus: forloop.index0 }}.** {{ pub.authors }}. {{ pub.title }}. *{{ pub.journal }}*{% if pub.note %} ({{ pub.note }}){% endif %}.
 {% endfor %}
-
+---
 ## 📔 Published
 
 {% assign pubs = site.data.publications | where: "status", "published" | sort: "year" | reverse %}
