@@ -1,8 +1,13 @@
 ---
-layout: page    # 이건 일반 페이지 레이아웃
-title: 🏡 Home     # 브라우저 탭에 뜨는 제목
-permalink: /    # 사이트 첫 화면 주소!
+layout: page
+title: Home
+permalink: /
 ---
+
+<p align="right">
+  <a href="/"><span style="font-size:1.2em">🏠 Home</span></a> &nbsp;
+  <a href="/publication/"><span style="font-size:1.2em">📚 Publications</span></a>
+</p>
 ---
 ## 🐷 Jeonghyeon Son [손 정현]
 **Ph.D. Student in Animal Science (Swine Nutrition)**  
