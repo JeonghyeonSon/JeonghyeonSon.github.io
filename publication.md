@@ -4,8 +4,8 @@ title: Publications
 permalink: /publication/
 ---
 
-## 📚 Publications
-
+# 📚 Publications
+---
 ## 📝 Work in Progress
 
 {% assign wips_submitted = site.data.publications | where: "status", "wip" | where: "note", "Submitted" | sort: "year" | reverse %}
