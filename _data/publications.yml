@@ -1,3 +1,16 @@
+
+# - authors: LastName FirstName
+#   year: 
+#   title: 
+#   journal: 
+#   volume: if empty, use this ""
+#   pages: if empty, use this ""
+#   status: wip (work in progress) or published
+#   note: make sure using exact term - Submitted, Under review, Accepted, published
+#   link: "not yet" or "https://doi.org/10.5713/ab.25.0097"
+
+
+
 - authors: Garavito-Duarte YR, Son J, Weaver AC, Kim SW
   year: 2025
   title: Functional efficacies of humate and β-mannanase protecting nursery pigs against aflatoxin B1 and deoxynivalenol contaminated in the diets
