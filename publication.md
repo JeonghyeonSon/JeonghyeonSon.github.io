@@ -1,10 +1,7 @@
 ---
 layout: page
-title: Publications
+title: 📚 Publications
 permalink: /publication/
----
-
-## 📚 Publications
 ---
 # 📝 Work in Progress
 
