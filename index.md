@@ -36,9 +36,11 @@ permalink: /    # 사이트 첫 화면 주소!
 ---
 ## 📚 Publications
 **Latest Publications:**
-1. Park N, Son J, Kim BG. Novel models for estimating metabolizable energy intake of pigs based on body weight and ambient temperature. *Journal of Animal Science* 103:skaf183, 2025.
-2. Koh Y, Son J, Kim BG. Comparison of neutral detergent fiber analysis methods for feedstuffs and feces of pigs. *The Journal of AOAC International* 108:648-651, 2025.
-3. Son J, Do H, Kim BG. Assessment of Brix values for estimating nitrogen and gross energy concentrations of pig urine. *Animal Bioscience* 38:1242-1246, 2024.
+{% assign pubs = site.data.publications | where: "status", "published" | sort: "year" | reverse %}
+{% assign pub_total = pubs | size %}
+{% for pub in pubs limit:3 %}
+- **{{ pub_total | minus: forloop.index0 }}.** {{ pub.authors }}. {{ pub.year }}. {{ pub.title }}. *{{ pub.journal }}*{% if pub.volume %} {{ pub.volume }}{% endif %}{% if pub.pages %}:{{ pub.pages }}{% endif %}{% if pub.link %} [🔗]({{ pub.link }}){% endif %}.
+{% endfor %}
 
 [**View All Publications →**](/publication/)
 
