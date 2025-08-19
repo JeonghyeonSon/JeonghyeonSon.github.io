@@ -6,6 +6,7 @@
   pages: ""
   status: wip
   note: Under review
+  link: "not yet"
 
 - authors: Cheng YC, Son J, Kim SW
   year: 2025
@@ -15,6 +16,7 @@
   pages: ""
   status: wip
   note: Submitted
+  link: "not yet"
 
 - authors: Zheng L, Son J, Kim SW
   year: 2025
@@ -24,6 +26,7 @@
   pages: ""
   status: wip
   note: Under review
+  link: "not yet"
 
 - authors: Son J, Seo S, Kim BG
   year: 2025
@@ -33,6 +36,7 @@
   pages: ""
   status: wip
   note: Under review
+  link: "not yet"
 
 - authors: Do H, Hong B, Son J, Park N, Kim BG
   year: 2025
@@ -42,6 +46,7 @@
   pages: ""
   status: wip
   note: Accepted
+  link: "https://doi.org/10.5713/ab.25.0097"
 
 - authors: Lee H, Sung JY, Son J, Chae KS, Kim BG
   year: 2025
@@ -59,6 +64,7 @@
   volume: 4
   pages: 29
   status: published
+  link: "https://doi.org/10.20517/mrr.2025.14"
 
 - authors: Park N, Son J, Kim BG
   year: 2025
@@ -67,6 +73,7 @@
   volume: 103
   pages: skaf183
   status: published
+  link: "https://doi.org/10.1093/jas/skaf183"
 
 - authors: Koh Y, Son J, Kim BG
   year: 2025
@@ -75,6 +82,7 @@
   volume: 108
   pages: 648-651
   status: published
+  link: "https://doi.org/10.1093/jaoacint/qsaf030"
 
 - authors: Son J, Do H, Kim BG
   year: 2025
@@ -83,6 +91,7 @@
   volume: 38
   pages: 1242-1246
   status: published
+  link: "https://doi.org/10.5713/ab.24.0684"
 
 - authors: Son J, Kim BG
   year: 2024
@@ -91,6 +100,7 @@
   volume: 37
   pages: 1781-1787
   status: published
+  link: "https://doi.org/10.5713/ab.24.0217"
 
 - authors: Son J, Park N, Kim BG
   year: 2024
@@ -99,6 +109,7 @@
   volume: 309
   pages: 115903
   status: published
+  link: "https://doi.org/10.1016/j.anifeedsci.2024.115903"
 
 - authors: Son AR, Son J, Kim BG
   year: 2024
@@ -107,6 +118,7 @@
   volume: 309
   pages: 115896
   status: published
+  link: "https://doi.org/10.1016/j.anifeedsci.2024.115896"
 
 - authors: Son J, Kim J, Jo H, Kim BG
   year: 2023
@@ -115,6 +127,7 @@
   volume: 305
   pages: 115790
   status: published
+  link: "https://doi.org/10.1016/j.anifeedsci.2023.115790"
 
 - authors: Son J, Kim BG
   year: 2023
@@ -123,6 +136,7 @@
   volume: 13
   pages: 1631
   status: published
+  link: "https://doi.org/10.3390/agriculture13081631"
 
 - authors: Song H, Jo H, Son J, Kim BG
   year: 2023
@@ -131,6 +145,7 @@
   volume: 10
   pages: 29-36
   status: published
+  link: "https://doi.org/10.5187/ait.2023.10.1.29"
 
 - authors: Son J, Park SH, Jung HJ, You SJ, Kim BG
   year: 2023
@@ -139,6 +154,8 @@
   volume: 13
   pages: 858
   status: published
+  link: "https://doi.org/10.3390/ani13050858"
+  
 
 - authors: Son AR, Son J, Kim BG
   year: 2023
@@ -147,6 +164,7 @@
   volume: 13
   pages: 799
   status: published
+  link: "https://doi.org/10.3390/ani13050799"
 
 - authors: Park CS, Son J, Kim BG
   year: 2022
@@ -155,3 +173,4 @@
   volume: 9
   pages: 35-40
   status: published
+  link: "https://doi.org/10.5187/ait.2022.9.1.35"
