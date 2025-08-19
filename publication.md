@@ -4,10 +4,7 @@ title: Publications
 permalink: /publication/
 ---
 
-<p align="right">
-  <a href="/"><span style="font-size:1.2em">🏠 Home</span></a> &nbsp;
-  <a href="/publication/"><span style="font-size:1.2em">📚 Publications</span></a>
-</p>
+
 
 # 📝 Work in Progress
 
