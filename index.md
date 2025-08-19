@@ -4,11 +4,7 @@ title: Home
 permalink: /
 ---
 
-<p align="right">
-  <a href="/"><span style="font-size:1.2em">🏠 Home</span></a> &nbsp;
-  <a href="/publication/"><span style="font-size:1.2em">📚 Publications</span></a>
-</p>
----
+
 ## 🐷 Jeonghyeon Son [손 정현]
 **Ph.D. Student in Animal Science (Swine Nutrition)**  
 
