@@ -4,9 +4,9 @@ title: Publications
 permalink: /publication/
 ---
 
-# 📚 Publications
+## 📚 Publications
 ---
-## 📝 Work in Progress
+# 📝 Work in Progress
 
 {% assign wips_submitted = site.data.publications | where: "status", "wip" | where: "note", "Submitted" | sort: "year" | reverse %}
 {% assign wips_under_review = site.data.publications | where: "status", "wip" | where: "note", "Under review" | sort: "year" | reverse %}
@@ -18,7 +18,7 @@ permalink: /publication/
 - **{{ wip_total | minus: forloop.index0 }}.** {{ pub.authors }}. {{ pub.title }}. *{{ pub.journal }}*{% if pub.note %} ({{ pub.note }}){% endif %}.
 {% endfor %}
 ---
-## 📔 Published
+# 📔 Published
 
 {% assign pubs = site.data.publications | where: "status", "published" | sort: "year" | reverse %}
 {% assign pub_total = pubs | size %}
