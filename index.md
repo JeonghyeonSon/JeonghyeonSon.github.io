@@ -40,7 +40,7 @@ permalink: /
 {% assign pubs = site.data.publications | where: "status", "published" | sort: "year" | reverse %}
 {% assign pub_total = pubs | size %}
 {% for pub in pubs limit:3 %}
-- **{{ pub_total | minus: forloop.index0 }}.** {{ publication.authors | replace: 'Son J', '<strong>Son J</strong>' }}. {{ pub.year }}. {{ pub.title }}. *{{ pub.journal }}*{% if pub.volume %} {{ pub.volume }}{% endif %}{% if pub.pages %}:{{ pub.pages }}.{% endif %}{% if pub.link %} [🔗]({{ pub.link }}){% endif %}
+- **{{ pub_total | minus: forloop.index0 }}.** {{ pub.authors | replace: 'Son J', '<strong>Son J</strong>' }}. {{ pub.year }}. {{ pub.title }}. *{{ pub.journal }}*{% if pub.volume %} {{ pub.volume }}{% endif %}{% if pub.pages %}:{{ pub.pages }}.{% endif %}{% if pub.link %} [🔗]({{ pub.link }}){% endif %}
 {% endfor %}
 
 [**View All Publications →**](/publication/)
