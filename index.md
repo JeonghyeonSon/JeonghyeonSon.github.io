@@ -25,7 +25,7 @@ permalink: /
   <a href="http://pig.konkuk.ac.kr/" style="color:#00693E">Konkuk University</a>, Seoul, South Korea, Aug 2023  
 
 - **B.Sc. in Animal Science and Technology**  
-  <span style="color:#00693E">Konkuk University</span>, Seoul, South Korea, Aug 2021  
+  Konkuk University, Seoul, South Korea, Aug 2021  
 
 ---
 ## 🔬 Research Interests
