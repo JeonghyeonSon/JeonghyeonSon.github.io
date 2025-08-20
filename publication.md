@@ -25,3 +25,9 @@ permalink: /publication/
 {% for pub in pubs %}
 - **{{ pub_total | minus: forloop.index0 }}.** {{ pub.authors | replace: 'Son J', '<strong>Son J</strong>' }}. {{ pub.year }}. {{ pub.title }}. *{{ pub.journal }}*{% if pub.volume %} {{ pub.volume }}{% endif %}{% if pub.pages %}:{{ pub.pages }}.{% endif %}{% if pub.link %} [🔗]({{ pub.link }}){% endif %}
 {% endfor %}
+
+
+---
+<footer style="text-align:center; margin-top:50px; font-size:0.9em; color:gray;">
+  © {{ site.time | date: "%Y" }} Jeonghyeon Son. All rights reserved.
+</footer>
