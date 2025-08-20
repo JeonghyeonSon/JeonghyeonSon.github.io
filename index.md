@@ -19,13 +19,13 @@ permalink: /
 
 ## 🎓 Education
 - **Ph.D. in Animal Science**  
-  <span style="color:#CC0000">North Carolina State University</span>, Raleigh, NC, Jan 2025–Present  
+  <a href="https://sungwookim.wordpress.ncsu.edu/kimlab/" style="color:#CC0000">North Carolina State University</a>, Raleigh, NC, Jan 2025–Present  
 
 - **M.Sc. in Animal Science**  
-  <span style="color:#00693E">Konkuk University</span>, Seoul, South Korea, Aug 2023  
+  <a href="http://pig.konkuk.ac.kr/" style="color:#00693E">, Seoul, South Korea, Aug 2023  
 
 - **B.Sc. in Animal Science and Technology**  
-  Konkuk University, Seoul, South Korea, Aug 2021  
+  <span style="color:#00693E">Konkuk University</span>, Seoul, South Korea, Aug 2021  
 
 ---
 ## 🔬 Research Interests
