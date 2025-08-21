@@ -1,3 +1,44 @@
-title: ""          # 사이트 제목 없애기
-description: ""    # 사이트 설명 없애기
-theme: minima      # 테마 설정
+# Site settings
+title: ""          # 사이트 제목 없애기 (keep empty to hide site title)
+description: ""    # 사이트 설명 없애기 (keep empty to hide site description)
+baseurl: ""        # subpath of your site, e.g. /blog
+url: "https://jeonghyeonson.github.io" # base hostname & protocol
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Author info
+author:
+  name: "Jeonghyeon Son"
+  email: "json7@ncsu.edu"
+
+# Social usernames
+github_username: JeonghyeonSon
+linkedin_username: jeonghyeon-son-107a10246
+
+# Google Analytics and verification
+google_analytics: # Add your GA tracking ID if needed
+google_site_verification: "D8HT8GR2jZhfTsWIQFN84uTVmEehlHM-FkmvXfJXydM"
+
+# Navigation pages
+header_pages:
+  - index.md
+  - publication.md
+
+# Minima date format
+minima:
+  date_format: "%b %-d, %Y"
+
+# Exclude files from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
