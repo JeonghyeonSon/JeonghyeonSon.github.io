@@ -1,21 +1,21 @@
+---
+layout: default
+---
+
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>{{ page.title }}</title>
-  <meta name="google-site-verification" content="D8HT8GR2jZhfTsWIQFN84uTVmEehlHM-FkmvXfJXydM" />
-  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
-</head>
-<body>
-  <header>
-    <nav>
-      <a href="{{ '/' | relative_url }}">Home</a>
-      <a href="{{ '/publication/' | relative_url }}">Publication</a>
-      <!-- 추가 메뉴 -->
-    </nav>
-  </header>
-  <main>
-    {{ content }}
-  </main>
-</body>
+  <head>
+    <meta charset="utf-8">
+    <meta name="google-site-verification" content="D8HT8GR2jZhfTsWIQFN84uTVmEehlHM-FkmvXfJXydM" />
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+    {%- include head.html -%}
+  </head>
+  <body>
+    {%- include header.html -%}
+    <main>
+      {{ content }}
+    </main>
+    {%- include footer.html -%}
+  </body>
 </html>
