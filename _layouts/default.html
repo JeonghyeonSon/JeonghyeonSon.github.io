@@ -4,8 +4,18 @@
   <meta charset="UTF-8">
   <title>{{ page.title }}</title>
   <meta name="google-site-verification" content="D8HT8GR2jZhfTsWIQFN84uTVmEehlHM-FkmvXfJXydM" />
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
 </head>
 <body>
-  {{ content }}
+  <header>
+    <nav>
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/publication/' | relative_url }}">Publication</a>
+      <!-- 추가 메뉴 -->
+    </nav>
+  </header>
+  <main>
+    {{ content }}
+  </main>
 </body>
 </html>
