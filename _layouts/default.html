@@ -1,20 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <meta name="google-site-verification" content="D8HT8GR2jZhfTsWIQFN84uTVmEehlHM-FkmvXfJXydM" />
-    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
-    <!-- 추가로 테마 CSS, head include 등 -->
-    {% if site.google_analytics %}
-      <!-- Google Analytics code -->
-    {% endif %}
-  </head>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  {%- include head.html -%}
   <body>
-    {% include header.html %}
-    <main class="container">
-      {{ content }}
+    {%- include header.html -%}
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
     </main>
-    {% include footer.html %}
+    {%- include footer.html -%}
   </body>
 </html>
