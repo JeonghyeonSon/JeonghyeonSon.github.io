@@ -50,7 +50,4 @@ permalink: /
 
 
 
----
-<footer style="text-align:center; margin-top:50px; font-size:0.9em; color:gray;">
-  © {{ site.time | date: "%Y" }} Jeonghyeon Son. All rights reserved.
-</footer>
+
