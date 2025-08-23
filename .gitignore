@@ -49,3 +49,7 @@ Thumbs.db
 .env.development.local
 .env.test.local
 .env.production.local
+
+# Temporary guide files
+GOOGLE_SEARCH_CONSOLE_GUIDE.md
+QUICK_ANSWER.md
