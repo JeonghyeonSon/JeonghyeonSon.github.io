@@ -1,0 +1,24 @@
+# Abstract data format:
+# - authors: LastName FirstName (same format as publications)
+#   year: 
+#   title: 
+#   conference: Conference/Journal name
+#   link: "https://..." or "not yet"
+
+- authors: Son J, Kim BG
+  year: 2024
+  title: Novel prediction models for nutrient excretion in swine production systems
+  conference: International Conference on Animal Science and Technology
+  link: "https://example.com/abstract1"
+
+- authors: Son J, Kim SW
+  year: 2024
+  title: Microbiome interactions and intestinal health in nursery pigs
+  conference: American Society of Animal Science Annual Meeting
+  link: "https://example.com/abstract2"
+
+- authors: Son J, Seo S, Kim BG
+  year: 2023
+  title: Precision nutrition approaches for sustainable pig production
+  conference: World Conference on Animal Production
+  link: "not yet"
