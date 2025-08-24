@@ -5,20 +5,70 @@
 #   conference: Conference/Journal name
 #   link: "https://..." or "not yet"
 
+
+
+- authors: Park NA, Son J, Kim BG
+  year: 2023
+  title: An *in vitro* digestion procedure using DaisyII incubator can replace conventional *in vitro* digestion procedures using flasks for estimating ileal digestibility of feed ingredients for pigs
+  conference: ASAS Midwest
+  link: "https://doi.org/10.1093/jas/skad341.350"
+
+- authors: Park NA, Son J, Kim BG
+  year: 2023
+  title: Prediction models for estimating metabolizable energy intake of pigs based on body weight and ambient temperature
+  conference: ASAS Midwest
+  link: "https://doi.org/10.1093/jas/skad341.409"
+
+- authors: Son J, Kim BG
+  year: 2023
+  title: Digestible energy and metabolizable energy concentrations of corn, oilseed meals, and fibrous ingredients for growing pig
+  conference: ASAS Midwest
+  link: "https://doi.org/10.1093/jas/skad341.376"
+
+- authors: Son J, Kim BG
+  year: 2023
+  title: Lowering dietary crude protein concentration decreases nitrogen excretion and pH of urine and slurry in 15-kg nursery pigs
+  conference: ASAS Midwest
+  link: "https://doi.org/10.1093/jas/skad341.144"
+
+- authors: Kim H, Son J, Kim BG
+  year: 2022
+  title: Lowering dietary protein concentrations reduces nitrogen excretion with minor effects on growth performance in pigs fed amino acid-balanced diets
+  conference: AAAP
+  link: "not yet"
+
+- authors: Roh JW, Kim J, Kim BG
+  year: 2022
+  title: A prediction equation for estimating energy digestibility of swine feeds using *in vitro* total tract disappearance of dry matter
+  conference: AAAP
+  link: "not yet"
+
+- authors: Park NA, Son J, Kim BG
+  year: 2022
+  title: A prediction equation for energy digestibility in feeds using a multi-sample simultaneous digestion method for pigs
+  conference: AAAP
+  link: "not yet"
+
+- authors: Son J, Song YS ,Yoo SB, Kim BG
+  year: 2022
+  title: Nutrient utilization of soybean meal products by pigs based on *in vitro* assays
+  conference: AAAP
+  link: "not yet"
+
 - authors: Son J, Park SH, Jung HJ, Kim BG
-  year: 2024
+  year: 2022
   title: Effects of drying methods for black soldier fly larva meals on *in vitro* nutrient disappearance
   conference: ASAS Annual Meeting
   link: "https://doi.org/10.1093/jas/skac247.621"
 
-- authors: Son J, Kim J, Kim SW
-  year: 2024
+- authors: Son J, Kim J, Kim BG
+  year: 2022
   title: Digestible energy and metabolizable energy prediction using chemical composition of feces with no dietary information
   conference: ASAS Annual Meeting
   link: "https://doi.org/10.1093/jas/skac247.420"
 
 - authors: Son J, Lee HI, Kim BG
-  year: 2023
+  year: 2021
   title: Effects of a supplemental carbohydrase complex on *in vitro* dry matter disappearance of feed ingredients
   conference: KSAST
   link: "not yet"
