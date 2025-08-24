@@ -6,7 +6,7 @@ permalink: /abstract/
 
 
 
-# 📋 Conference Abstracts
+# 📊 Abstracts
 
 {% assign abstracts = site.data.abstracts | sort: "year" | reverse %}
 {% assign abstract_total = abstracts | size %}
