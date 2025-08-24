@@ -5,20 +5,20 @@
 #   conference: Conference/Journal name
 #   link: "https://..." or "not yet"
 
-- authors: Son J, Kim BG
+- authors: Son J, Park SH, Jung HJ, Kim BG
   year: 2024
-  title: Novel prediction models for nutrient excretion in swine production systems
-  conference: International Conference on Animal Science and Technology
-  link: "https://example.com/abstract1"
+  title: Effects of drying methods for black soldier fly larva meals on *in vitro* nutrient disappearance
+  conference: ASAS Annual Meeting
+  link: "https://doi.org/10.1093/jas/skac247.621"
 
-- authors: Son J, Kim SW
+- authors: Son J, Kim J, Kim SW
   year: 2024
-  title: Microbiome interactions and intestinal health in nursery pigs
-  conference: American Society of Animal Science Annual Meeting
-  link: "https://example.com/abstract2"
+  title: Digestible energy and metabolizable energy prediction using chemical composition of feces with no dietary information
+  conference: ASAS Annual Meeting
+  link: "https://doi.org/10.1093/jas/skac247.420"
 
-- authors: Son J, Seo S, Kim BG
+- authors: Son J, Lee HI, Kim BG
   year: 2023
-  title: Precision nutrition approaches for sustainable pig production
-  conference: World Conference on Animal Production
+  title: Effects of a supplemental carbohydrase complex on *in vitro* dry matter disappearance of feed ingredients
+  conference: KSAST
   link: "not yet"
