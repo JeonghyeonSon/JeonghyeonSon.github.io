@@ -1,6 +1,6 @@
 # Site settings
-title: ""          # 사이트 제목 없애기 (keep empty to hide site title)
-description: ""    # 사이트 설명 없애기 (keep empty to hide site description)
+title: "Jeonghyeon Son's web page"          # SEO title for Google search results
+description: "Ph.D. Student in Animal Science (Swine Nutrition) at North Carolina State University"    # SEO description for Google search results
 baseurl: ""        # subpath of your site, e.g. /blog
 url: "https://jeonghyeonson.github.io" # base hostname & protocol
 
@@ -28,6 +28,7 @@ google_site_verification: "D8HT8GR2jZhfTsWIQFN84uTVmEehlHM-FkmvXfJXydM"
 header_pages:
   - index.md
   - publication.md
+  - abstract.md
 
 # Minima date format
 minima:
