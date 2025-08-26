@@ -20,8 +20,20 @@ permalink: /publication/
 ---
 # 📔 Peer-Reviewed Publications
 
-{% assign pubs = site.data.publications | where: "status", "published" | sort: "year" | reverse %}
-{% assign pub_total = pubs | size %}
-{% for pub in pubs %}
-- **{{ pub_total | minus: forloop.index0 }}.** {{ pub.authors | replace: 'Son J', '<strong>Son J</strong>' }}. {{ pub.year }}. {{ pub.title }}. *{{ pub.journal }}*{% if pub.volume %} {{ pub.volume }}{% endif %}{% if pub.pages %}:{{ pub.pages }}.{% endif %}{% if pub.link %} [🔗]({{ pub.link }}){% endif %}
+{% assign pubs_all = site.data.publications | where: "status", "published" %}
+{% assign pub_total = pubs_all | size %}
+
+{%- comment -%}
+  그룹을 먼저 만들고, 그룹의 이름(=year)만 정렬/역순 처리
+  → 그룹 내부 아이템 순서는 데이터 파일 순서 유지(=최신을 맨 위에 써두면 그대로 위)
+{%- endcomment -%}
+{% assign groups = pubs_all | group_by: "year" | sort: "name" | reverse %}
+
+{%- assign count = pub_total -%}
+{% for g in groups %}
+  {%- for pub in g.items -%}
+{{ count }}. {{ pub.authors }}. {{ pub.year }}. {{ pub.title }}. {{ pub.journal }}{% if pub.volume %} {{ pub.volume }}{% endif %}{% if pub.pages %}:{{ pub.pages }}.{% endif %}{% if pub.link %} [🔗]({{ pub.link }}){% endif %}
+    {%- assign count = count | minus: 1 -%}
+  {%- endfor -%}
 {% endfor %}
+
