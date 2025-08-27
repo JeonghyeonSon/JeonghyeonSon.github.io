@@ -9,6 +9,26 @@
 #   note: make sure using exact term - Submitted, Under review, Accepted, published
 #   link: "not yet" or "https://doi.org/10.5713/ab.25.0097"
 
+# example for under review - authors: Garavito-Duarte YR, Son J, Weaver AC, Kim SW
+#  year: 2025
+#  title: Functional efficacies of humate and β-mannanase protecting nursery pigs against aflatoxin B1 and deoxynivalenol contaminated in the diets
+#  journal: Toxins
+#  volume: ""
+#  pages: ""
+#  status: wip
+#  note: Under review
+#  link: "not yet"
+
+# example for submitted - authors: Cheng YC, Son J, Kim SW
+#  year: 2025
+#  title: Amino acids with *Corynebacterium glutamicum* cell mass can replace crystalline amino acids for its postbiotic effects on intestinal health of nursery pigs
+#  journal: Animal Feed Science and Technology
+#  volume: ""
+#  pages: ""
+#  status: wip
+#  note: Submitted
+#  link: "not yet"
+
 
 
 - authors: Garavito-Duarte YR, Son J, Weaver AC, Kim SW
@@ -28,7 +48,7 @@
   volume: ""
   pages: ""
   status: wip
-  note: Submitted
+  note: Under review
   link: "not yet"
 
 - authors: Zheng L, Son J, Kim SW
