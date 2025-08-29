@@ -34,5 +34,23 @@
     <div class="copyright">
       © {{ site.time | date: "%Y" }} Jeonghyeon Son. All rights reserved.
     </div>
+    
+    <div class="visitor-stats">
+      <p>📊 <span id="visitor-counter">Loading...</span></p>
+    </div>
+    
+    <script>
+      // Simple visitor counter using localStorage
+      (function() {
+        var visits = localStorage.getItem('site-visits') || 0;
+        visits = parseInt(visits) + 1;
+        localStorage.setItem('site-visits', visits);
+        
+        var counter = document.getElementById('visitor-counter');
+        if (counter) {
+          counter.textContent = 'Visits: ' + visits.toLocaleString();
+        }
+      })();
+    </script>
   </div>
 </footer>
