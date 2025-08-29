@@ -117,3 +117,17 @@
 .footer-heading {
   display: none;
 }
+
+/* 방문자 통계 스타일 */
+.visitor-stats {
+  text-align: center;
+  font-size: 0.85em;
+  color: #666;
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid #f0f0f0;
+}
+
+.visitor-stats p {
+  margin: 0;
+}
