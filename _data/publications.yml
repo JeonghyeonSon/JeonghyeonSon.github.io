@@ -11,7 +11,7 @@
 
 # example for under review - authors: Garavito-Duarte YR, Son J, Weaver AC, Kim SW
 #  year: 2025
-#  title: Functional efficacies of humate and β-mannanase protecting nursery pigs against aflatoxin B1 and deoxynivalenol contaminated in the diets
+#  title: Functional efficacies of humate and β-mannanase against aflatoxin B1 and deoxynivalenol in the diets for nursery pigs
 #  journal: Toxins
 #  volume: ""
 #  pages: ""
@@ -45,11 +45,11 @@
   year: 2025
   title: Amino acids with *Corynebacterium glutamicum* cell mass can replace crystalline amino acids for its postbiotic effects on intestinal health of nursery pigs
   journal: Animal Feed Science and Technology
-  volume: ""
-  pages: ""
-  status: wip
-  note: Under review
-  link: "not yet"
+  volume: "329"
+  pages: "116504"
+  status: published
+  note: published
+  link: "https://doi.org/10.1016/j.anifeedsci.2025.116504"
 
 - authors: Zheng L, Son J, Kim SW
   year: 2025
