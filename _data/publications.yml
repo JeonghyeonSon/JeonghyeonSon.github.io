@@ -30,14 +30,14 @@
 #  link: "not yet"
 
 - authors: Choi H, Sung JY, Son J, Kim SW
-  year: 2025
+  year: 2026
   title: Recent updates on amino acid requirements of pigs based on phenotypic improvements
   journal: Animal Bioscience
   volume: ""
   pages: ""
   status: wip
-  note: Submitted
-  link: "not yet"
+  note: Accepted
+  link: "https://doi.org/10.5713/ab.250891"
 
 
 - authors: Garavito-Duarte YR, Son J, Weaver AC, Kim SW
@@ -61,14 +61,14 @@
   link: "https://doi.org/10.1016/j.anifeedsci.2025.116504"
 
 - authors: Zheng L, Son J, Kim SW
-  year: 2025
+  year: 2026
   title: Effects of fermented rice bran extract with multi-microbial species on intestinal health and growth of nursery pigs
   journal: Animal Bioscience
-  volume: ""
-  pages: ""
-  status: wip
-  note: Accepted
-  link: "not yet"
+  volume: "39"
+  pages: "250402"
+  status: published
+  note: published
+  link: "https://doi.org/10.5713/ab.25.0402"
 
 - authors: Son J, Seo S, Kim BG
   year: 2025
