@@ -29,12 +29,33 @@
 #  note: Submitted
 #  link: "not yet"
 
+
+- authors:  Gormley AR, Garavito-Duarte YR, Son J, Kim SW
+  year: 2026
+  title: Intestinal microbiota in nursery pigs: comments on anatomical location, spatial niches, and approaches to data interpretation
+  journal: Microbiome Research Reports
+  volume: ""
+  pages: ""
+  status: wip
+  note: Under review
+  link: "not yet"
+
+- authors: Garavito-Duarte YR, Gormley AR, Son J, Furukawa K, Murai A, Kim SW
+  year: 2026
+  title: The weaning of pigs: mechanistic outcomes to intestinal immunity and integrity
+  journal: Animal Science Journal
+  volume: ""
+  pages: ""
+  status: wip
+  note: Under review
+  link: "not yet"
+
 - authors: Choi H, Sung JY, Son J, Kim SW
   year: 2026
   title: Recent updates on amino acid requirements of pigs based on phenotypic improvements
   journal: Animal Bioscience
-  volume: ""
-  pages: ""
+  volume: "39"
+  pages: "250891"
   status: published
   note: published
   link: "https://doi.org/10.5713/ab.250891"
