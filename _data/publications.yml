@@ -34,11 +34,11 @@
   year: 2026
   title: "Intestinal microbiota in nursery pigs: comments on anatomical location, spatial niches, and approaches to data interpretation"
   journal: Microbiome Research Reports
-  volume: ""
-  pages: ""
-  status: wip
-  note: Under review
-  link: "not yet"
+  volume: "5"
+  pages: "13"
+  status: published
+  note: published
+  link: "https://doi.org/10.20517/mrr.2026.21"
 
 - authors: Garavito-Duarte YR, Gormley AR, Son J, Furukawa K, Murai A, Kim SW
   year: 2026
