@@ -18,7 +18,7 @@ permalink: /
 ---
 
 ## 🎓 Education
-- **PhD in Animal Science**  
+- **Ph.D. in Animal Science**  
   <a href="https://sungwookim.wordpress.ncsu.edu/kimlab/" style="color:#CC0000">North Carolina State University</a>, Raleigh, NC, Jan 2025–Present  
 
 - **MS in Animal Science**  
