@@ -18,20 +18,20 @@ permalink: /
 ---
 
 ## 🎓 Education
-- **Ph.D. in Animal Science**  
+- **PhD in Animal Science**  
   <a href="https://sungwookim.wordpress.ncsu.edu/kimlab/" style="color:#CC0000">North Carolina State University</a>, Raleigh, NC, Jan 2025–Present  
 
-- **M.Sc. in Animal Science**  
+- **MS in Animal Science**  
   <a href="http://pig.konkuk.ac.kr/" style="color:#00693E">Konkuk University</a>, Seoul, South Korea, Aug 2023  
 
-- **B.Sc. in Animal Science and Technology**  
+- **BS in Animal Science and Technology**  
   Konkuk University, Seoul, South Korea, Aug 2021  
 
 ---
 ## 🔬 Research Interests
 - Precision nutrition in swine  
 - Nutrient digestibility, availability, and requirement modeling  
-- Nutritional interventions and microbiome analysis for intestinal health  
+- Nutritional interventions and microbiota analysis for intestinal health  
 
 
 ---
