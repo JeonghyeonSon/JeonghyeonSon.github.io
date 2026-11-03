@@ -29,6 +29,16 @@
 #  note: Submitted
 #  link: "not yet"
 
+#- authors: Son J, Seo S, Kim BG ?????? 나중에 다시 내면 그때 업로드..
+#  year: 2025
+#  title: Prediction models for nitrogen excretion based on dietary crude protein concentrations and body weights of pigs
+#  journal: Animal Nutrition
+#  volume: ""
+#  pages: ""
+#  status: wip
+#  note: Under review
+#  link: "not yet"
+
 - authors:  Choi H, Garavito-Duarte YR, Son J, Kim SW
   year: 2026
   title: "Impact of dietary β-mannans on the intestinal-nutritional interface and growth performance of chickens and pigs: Challenges and strategies via exogenous β-mannanase based on meta-analysis"
@@ -110,16 +120,6 @@
   status: published
   note: published
   link: "https://doi.org/10.5713/ab.25.0402"
-
-- authors: Son J, Seo S, Kim BG
-  year: 2025
-  title: Prediction models for nitrogen excretion based on dietary crude protein concentrations and body weights of pigs
-  journal: Animal Nutrition
-  volume: ""
-  pages: ""
-  status: wip
-  note: Under review
-  link: "not yet"
 
 - authors: Do H, Hong B, Son J, Park N, Kim BG
   year: 2025
